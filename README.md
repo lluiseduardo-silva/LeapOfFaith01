@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/LeaphOfFaith01" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leapoffaith01&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leapoffaith01&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leapoffaith01&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leapoffaith01&layout=compact&langs_count=16&theme=light" />
 </div>
 
 <div style="display:inline_block">
@@ -22,8 +22,9 @@
   <div>
     <br><br>
     <a href="https://www.linkedin.com/in/luis-eduardo-8144711b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-      ![Snake animation](https://github.com/leapoffaith01/leapoffaith01/blob/output/github-contribution-grid-snake.svg)
+      <img src="https://github.com/leapoffaith01/leapoffaith01/blob/output/github-contribution-grid-snake.svg" />
     <div/>
+     
 <!---
 LeapOfFaith01/LeapOfFaith01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
