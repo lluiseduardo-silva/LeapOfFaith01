@@ -1,11 +1,11 @@
-### 👋 Olá,eu sou @LeapOfFaith01
+### 👋 Olá,eu sou @lluiseduardo-silva
 ## 
  #### 🌱 Estudando Typescript
 ## 
 <div>
   <a href="https://github.com/lluiseduardo-silva" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leapoffaith01&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leapoffaith01&layout=compact&langs_count=16&theme=light" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lluiseduardo-silva&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluiseduardo-silva&layout=compact&langs_count=16&theme=light" />
 </div>
 
 <div style="display:inline_block">
